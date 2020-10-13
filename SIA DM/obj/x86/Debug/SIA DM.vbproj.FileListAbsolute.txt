@@ -1,0 +1,48 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\bin\Debug\SIA DM.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\bin\Debug\SIA DM.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\bin\Debug\SIA DM.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmbukubiaya.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.pdb
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.formmasterBarang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.transaksipembelian.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmbukuhutang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmbukukas.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmbukupembelian.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmbukupenjualan.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmbukupiutang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.transaksipenjualan.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.transaksibiaya.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.bayarpembelian.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.bayarpenjualan.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.bayarhutang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.bayarpiutang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.returpembelian.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.returpenjualan.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.riwayatpersediaanbarang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.neraca.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmhutang.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmmodal.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.login.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\bin\Debug\SIA DM.exe.config
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.ccccc.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewneraca.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmlabarugi.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewlabarugi.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmperubahanmodal.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewperubahanmodal.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewkas.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewpenjualan.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewhutang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewpiutang.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.reviewbiaya.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\bin\Debug\SIA DM.exe.manifest
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\bin\Debug\SIA DM.application
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.exe.manifest
+C:\Users\User\Documents\Visual Studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.application
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA_DM.frmgantipass.resources
+C:\Users\User\documents\visual studio 2010\Projects\SIA DM\SIA DM\obj\x86\Debug\SIA DM.vbprojResolveAssemblyReference.cache
